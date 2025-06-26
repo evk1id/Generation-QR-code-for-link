@@ -10,4 +10,6 @@ This script converts a link into QR-code
   
 # Run  
 Run the following command:  
-_python3 main.py <lnk>_  
+```
+python3 main.py <lnk>
+```
